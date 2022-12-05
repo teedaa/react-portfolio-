@@ -4,8 +4,12 @@
 
 /*navbar styling*/
 
+.navbar {
+  font-size: larger;
+}
+
 .navbar-brand {
-  color: #D6CCC2;
+  color: #aca39b;
 }
 
 .nav-link{
