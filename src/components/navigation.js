@@ -20,7 +20,7 @@ export default function Nav() {
             <a className="nav-link" href="#">Resume</a>
           </li>
           <li className="nav-item">
-            <a className="nav-link disabled">Contact Me</a>
+            <a className="nav-link" href="#">Contact Me</a>
           </li>
         </ul>
       </div>

@@ -2,6 +2,11 @@
   font-family: 'Poppins', sans-serif;
 }
 
+main,
+.website {
+  background-color: #EDEDE9;
+}
+
 /*navbar styling*/
 header {
   background-color: transparent;
@@ -27,4 +32,9 @@ header {
 .footicon {
   height: 24px;
   width: 24px;
+}
+
+.about-me-box,
+.aboutText {
+  background: #F5EBE0;
 }

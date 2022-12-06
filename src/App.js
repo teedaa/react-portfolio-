@@ -1,10 +1,12 @@
 import "bootstrap/dist/css/bootstrap.min.css"
 import './App.css';
 import React, {useState, useEffect} from 'react';
-import Header from './components/header.js'
-import Projects from './components/project.js';
-import Footer from './components/footer.js'
+import Header from './components/header'
+import Projects from './components/project';
+import Footer from './components/footer'
 import About from "./components/about";
+import ContactForm from "./components/contact";
+import Resume from "./components/resume";
 
 
 function App() { 
@@ -28,7 +30,7 @@ function App() {
           };
           
           return (
-          <div>
+          <div className="website">
 
     <Header currentPage={currentPage} handlePageChange={handlePageChange} />
     <main>
