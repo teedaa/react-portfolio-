@@ -1,5 +1,6 @@
 * {
   font-family: 'Poppins', sans-serif;
+  background-color: #EDEDE9;
 }
 
 main,
@@ -34,7 +35,12 @@ header {
   width: 24px;
 }
 
-.about-me-box,
-.aboutText {
+.about-me-box
+{
   background: #F5EBE0;
+}
+
+.me {
+  padding-left: 0px;
+  padding-right: 0px;
 }
