@@ -3,6 +3,9 @@
 }
 
 /*navbar styling*/
+header {
+  background-color: transparent;
+}
 
 .navbar {
   font-size: larger;
@@ -12,6 +15,16 @@
   color: #aca39b;
 }
 
+#navbar-nav {
+  display: flex;
+  justify-content: end;
+}
+
 .nav-link{
   --navbar-hover-color: #D6CCC2;
+}
+
+.footicon {
+  height: 24px;
+  width: 24px;
 }

@@ -1,9 +1,13 @@
 import "bootstrap/dist/css/bootstrap.min.css"
 import './App.css';
-import Nav from "./components/navigation.js"
+import Header from './components/header.js'
+import Footer from './components/footer.js'
+
 function App() {
   return (
-   < Nav />
+    <><Header />
+    <Footer /></>
+
   );
 }
 
