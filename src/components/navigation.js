@@ -1,6 +1,8 @@
 import React from 'react'
 
-export default function Nav() {
+
+ function Nav() {
+
   return (
     <nav className="navbar navbar-expand-lg ">
     <div className="container-fluid">
@@ -8,19 +10,16 @@ export default function Nav() {
       <div className="collapse navbar-collapse d-flex justify-content-end " id="navbarNav">
         <ul className="navbar-nav">
           <li className="nav-item">
-            <a className="nav-link active" aria-current="page" href="#">Home</a>
+            <a className="nav-link" href="About">About Me</a>
           </li>
           <li className="nav-item">
-            <a className="nav-link" href="#">About Me</a>
+            <a className="nav-link" href="Portfolio">Portfolio</a>
           </li>
           <li className="nav-item">
-            <a className="nav-link" href="#">Portfolio</a>
+            <a className="nav-link" href="Resume">Resume</a>
           </li>
           <li className="nav-item">
-            <a className="nav-link" href="#">Resume</a>
-          </li>
-          <li className="nav-item">
-            <a className="nav-link" href="#">Contact Me</a>
+            <a className="nav-link" href="Contact">Contact Me</a>
           </li>
         </ul>
       </div>
@@ -28,3 +27,4 @@ export default function Nav() {
   </nav>
   )
 }
+export default Nav;
