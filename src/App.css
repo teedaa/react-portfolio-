@@ -49,3 +49,8 @@ header {
   background-color:#E3D5CA;
   color:white;
 }
+
+a {
+  text-decoration: none;
+  color:#0000008c;
+}
