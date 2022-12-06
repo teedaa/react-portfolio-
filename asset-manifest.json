@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-portfolio-/static/css/main.4f65409e.css",
+    "main.js": "/react-portfolio-/static/js/main.efa3206e.js",
+    "static/media/mickey.png": "/react-portfolio-/static/media/mickey.d73979aa808f67d75e44.png",
+    "static/media/matchup.png": "/react-portfolio-/static/media/matchup.3e044afc65520a158d61.png",
+    "static/media/me.png": "/react-portfolio-/static/media/me.165d28fabbd90702d92b.png",
+    "static/media/work-day.png": "/react-portfolio-/static/media/work-day.3ef475e5c9ad70f01663.png",
+    "static/media/weather.png": "/react-portfolio-/static/media/weather.a1f5950fcec55466341c.png",
+    "static/media/note-taker.png": "/react-portfolio-/static/media/note-taker.07ffc7dd49939d8cefad.png",
+    "static/media/editor.png": "/react-portfolio-/static/media/editor.de449a8da55a5b6e9cba.png",
+    "index.html": "/react-portfolio-/index.html",
+    "main.4f65409e.css.map": "/react-portfolio-/static/css/main.4f65409e.css.map",
+    "main.efa3206e.js.map": "/react-portfolio-/static/js/main.efa3206e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f65409e.css",
+    "static/js/main.efa3206e.js"
+  ]
+}
